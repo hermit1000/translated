@@ -1,0 +1,384 @@
+{
+    "SD 스내쳐": {
+        "collected": false,
+        "developer": "Konami",
+        "genre": "Unknown",
+        "loc_url": "https://blog.naver.com/kkitty5425/220585477498",
+        "localization": "키티야",
+        "platform": "MSX",
+        "release": "Unknown",
+        "title": {
+            "eng": "SD Snatcher",
+            "jpn": "SD スナッチャー",
+            "kor": "SD 스내쳐"
+        }
+    },
+    "그라디우스 2": {
+        "collected": false,
+        "developer": "Unknown",
+        "genre": "Shooting",
+        "loc_url": "https://blog.naver.com/kkitty5425/220664160333",
+        "localization": "키티야",
+        "platform": "MSX",
+        "release": "Unknown",
+        "title": {
+            "eng": "Gradius 2 - Nemesis 2",
+            "kor": "그라디우스 2"
+        }
+    },
+    "대항해시대 1": {
+        "developer": "KOEI",
+        "genre": "Strategy",
+        "loc_url": "https://blog.naver.com/kkitty5425/220529309137",
+        "localization": "키티야",
+        "platform": "MSX",
+        "release": "1990-01-01",
+        "title": {
+            "eng": "Uncharted Waters",
+            "jpn": "大航海時代",
+            "kor": "대항해시대 1"
+        }
+    },
+    "룬마스터 2": {
+        "developer": "Compile",
+        "genre": "Role Playing Game / Japanese RPG",
+        "loc_url": "https://nsm53p.tistory.com/811",
+        "localization": "자일리톨,NSM53 PROJECT",
+        "platform": "MSX",
+        "release": "1990-01-01",
+        "title": {
+            "eng": "Rune Master II",
+            "kor": "룬마스터 2"
+        }
+    },
+    "마성전설 3 - 샬롬": {
+        "developer": "Konami",
+        "genre": "Adventure",
+        "loc_url": "https://cafe.naver.com/msx/10482",
+        "localization": "키티야",
+        "platform": "MSX",
+        "release": "1987-01-01",
+        "title": {
+            "eng": "Knightmare III - Shalom",
+            "jpn": "魔城伝説3",
+            "kor": "마성전설 3 - 샬롬"
+        }
+    },
+    "메탈 기어 2 - 솔리드 스네이크": {
+        "developer": "Konami",
+        "genre": "Action",
+        "loc_url": "https://blog.naver.com/kkitty5425/220534170018",
+        "localization": "키티야",
+        "platform": "MSX",
+        "release": "1988-01-01",
+        "title": {
+            "eng": "Metal Gear 2 - Solid Snake",
+            "kor": "메탈 기어 2 - 솔리드 스네이크"
+        }
+    },
+    "바리스 2": {
+        "collected": false,
+        "developer": "MicroCabin",
+        "genre": "Action RPG",
+        "loc_url": "https://nsm53p.tistory.com/101",
+        "localization": "NSM53 PROJECT",
+        "platform": "MSX2",
+        "release": "1989-08-21",
+        "title": {
+            "end": "Valis: The Fantasm Soldier 2",
+            "jpn": "夢幻戦士ヴァリス 2",
+            "kor": "몽환전사 바리스 2"
+        }
+    },
+    "불새 - 봉황편": {
+        "developer": "Konami",
+        "genre": "Action",
+        "loc_url": "https://cafe.naver.com/msx/12340",
+        "localization": "키티야",
+        "platform": "MSX2",
+        "release": "1987-04-05",
+        "title": {
+            "eng": "Hinotori - Houou Hen",
+            "jpn": "火の鳥  鳳凰編",
+            "kor": "불새"
+        }
+    },
+    "사이코 월드": {
+        "collected": false,
+        "developer": "Sanritsu Denki",
+        "genre": "Action RPG",
+        "loc_url": "https://nsm53p.tistory.com/101",
+        "localization": "NSM53 PROJECT",
+        "platform": "MSX2",
+        "release": "1991-02-02",
+        "title": {
+            "end": "Psycho World",
+            "jpn": "サイコワールド",
+            "kor": "사이코 월드"
+        }
+    },
+    "살인구락부": {
+        "developer": "Riverhillsoft",
+        "genre": "Adventure",
+        "loc_url": "https://cafe.naver.com/msx/11662",
+        "localization": "키티야",
+        "platform": "msx2",
+        "release": "1988-01-01",
+        "title": {
+            "eng": "Final Mystery Murder Club - Satsujin Club",
+            "jpn": "殺人倶楽部",
+            "kor": "살인구락부"
+        }
+    },
+    "삼국지 2": {
+        "collected": false,
+        "developer": "KOEI",
+        "genre": "Strategy",
+        "loc_url": "https://blog.naver.com/kkitty5425/220530708702",
+        "localization": "키티야",
+        "platform": "MSX2",
+        "release": "1990-00-00",
+        "title": {
+            "kor": "삼국지 2"
+        }
+    },
+    "샤크 - 가젤의 탑": {
+        "collected": false,
+        "developer": "MicroCabin",
+        "genre": "Action RPG",
+        "loc_url": "https://cafe.naver.com/msx/5466",
+        "localization": "키티야",
+        "platform": "MSX2",
+        "release": "1991-00-00",
+        "title": {
+            "end": "Xak - The Tower Of Gazzel",
+            "jpn": "サークガゼルの塔",
+            "kor": "샤크 - 가젤의 탑"
+        }
+    },
+    "샤크 2": {
+        "collected": false,
+        "developer": "MicroCabin",
+        "genre": "Action RPG",
+        "loc_url": "https://cafe.naver.com/msx/9817",
+        "localization": "키티야",
+        "platform": "MSX2",
+        "release": "1990-00-00",
+        "title": {
+            "end": "Xak II - Rising Of The Redmoon",
+            "jpn": "サーク II",
+            "kor": "샤크 2"
+        }
+    },
+    "수호전 - 천명의 맹세": {
+        "collected": false,
+        "developer": "KOEI",
+        "genre": "Strategy",
+        "loc_url": "https://cafe.naver.com/msx/31737?art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtc2hhcmUtbGluaw.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjMxNzM3LCJpc3N1ZWRBdCI6MTc2ODQyOTk0MzE5MCwiY2FmZUlkIjoyNDg2MDMxOX0.hrO_b-YAXN9BBMnHLuuCoFHxUUBR3TjcjC9N_G_DW1k",
+        "localization": "키티야",
+        "platform": "MSX2",
+        "release": "1989",
+        "title": {
+            "jpn": "水滸伝 ~ 天命の誓い",
+            "kor": "수호전 - 천명의 맹세"
+        }
+    },
+    "스내쳐": {
+        "collected": false,
+        "developer": "Konami",
+        "genre": "Adventure",
+        "loc_url": "https://blog.naver.com/kkitty5425/220575983780",
+        "localization": "키티야",
+        "platform": "MSX",
+        "release": "1988-12-13",
+        "title": {
+            "eng": "Snatcher",
+            "jpn": "スナッチャー",
+            "kor": "스내쳐"
+        }
+    },
+    "아쉬기네 2 - 허공의 아성": {
+        "developer": "T&E Soft",
+        "genre": "Action",
+        "loc_url": "https://cafe.naver.com/msx/12425",
+        "localization": "키티야",
+        "platform": "MSX",
+        "release": "1987-00-00",
+        "title": {
+            "eng": "AshGuine Story II",
+            "jpn": "アシュギーネ虚空の牙城",
+            "kor": "아쉬기네 2 - 허공의 아성"
+        }
+    },
+    "알레스터 2": {
+        "collected": false,
+        "developer": "Compile",
+        "genre": "Shooting",
+        "loc_url": "https://nsm53p.tistory.com/335",
+        "localization": "NSM53 PROJECT",
+        "platform": "MSX2",
+        "release": "1989-11-00",
+        "title": {
+            "end": "Aleste 2",
+            "jpn": "アレスタ 2",
+            "kor": "알레스터 2"
+        }
+    },
+    "암흑신화": {
+        "collected": false,
+        "developer": "Tokyo Shoseki",
+        "genre": "Adventure",
+        "loc_url": "https://cafe.naver.com/msx/6047",
+        "localization": "키티야",
+        "platform": "MSX2",
+        "release": "1988-00-00",
+        "title": {
+            "eng": "Ankoku Shinwa - Yamato Takeru Densetsu",
+            "jpn": "暗黒神話 ヤマトタケル伝説",
+            "kor": "암흑신화 - 야마토 타케루 전설"
+        }
+    },
+    "엑자일 2": {
+        "collected": false,
+        "developer": "Telenet Japan",
+        "genre": "Action RPG",
+        "loc_url": "https://cafe.naver.com/msx/12316",
+        "localization": "키티야",
+        "platform": "MSX2",
+        "release": "1988-00-00",
+        "title": {
+            "eng": "XZR II",
+            "jpn": "エグザイルII",
+            "kor": "엑자일 2"
+        }
+    },
+    "오렌지 로드": {
+        "developer": "Unknown",
+        "genre": "Unknown",
+        "loc_url": "https://blog.naver.com/kkitty5425/220639047814",
+        "localization": "키티야",
+        "platform": "MSX",
+        "release": "Unknown",
+        "title": {
+            "eng": "Kimagure Orange Road",
+            "kor": "오렌지 로드"
+        }
+    },
+    "오목": {
+        "collected": false,
+        "developer": "ComTek",
+        "genre": "Puzzle",
+        "loc_url": "https://cafe.naver.com/msx/12059",
+        "localization": "키티야",
+        "platform": "MSX",
+        "release": "Unknown",
+        "title": {
+            "kor": "오목"
+        }
+    },
+    "우르세이 야츠라 - 사랑의 서바이벌 생일": {
+        "developer": "MicroCabin",
+        "genre": "Adventure",
+        "loc_url": "https://blog.naver.com/kkitty5425/221247814077",
+        "localization": "키티야,언냐안녕",
+        "platform": "MSX",
+        "release": "1987-12-03",
+        "title": {
+            "eng": "Urusei Yatsura - Koi no Survival Birthday",
+            "jpn": "うる星やつら 〜恋のサバイバル・バースディ〜",
+            "kor": "우르세이 야츠라 - 사랑의 서바이벌 생일"
+        }
+    },
+    "이스 1": {
+        "developer": "Falcom",
+        "genre": "Action RPG",
+        "loc_url": "https://blog.naver.com/kkitty5425/220616914878",
+        "localization": "키티야",
+        "platform": "MSX",
+        "release": "1987-01-01",
+        "title": {
+            "eng": "Ys 1",
+            "jpn": "イース1",
+            "kor": "이스 1"
+        }
+    },
+    "이스 2": {
+        "collected": false,
+        "developer": "Falcom",
+        "genre": "Action RPG",
+        "loc_url": "https://blog.naver.com/kkitty5425/220544314632",
+        "localization": "키티야",
+        "platform": "MSX",
+        "release": "Unknown",
+        "title": {
+            "eng": "Ys 2",
+            "kor": "이스 2"
+        }
+    },
+    "제독의 결단": {
+        "collected": false,
+        "developer": "KOEI",
+        "genre": "Strategy",
+        "loc_url": "https://cafe.naver.com/msx/7087",
+        "localization": "키티야",
+        "platform": "MSX",
+        "release": "1989-09-21",
+        "title": {
+            "eng": "Pacific Theater of Operations(P.T.O.)",
+            "jpn": "提督の決断",
+            "kor": "제독의 결단"
+        }
+    },
+    "코나미 테니스": {
+        "collected": false,
+        "developer": "Konami",
+        "genre": "Sports",
+        "loc_url": "https://blog.naver.com/kkitty5425/220537333290",
+        "localization": "키티야",
+        "platform": "MSX",
+        "release": "1984-00-00",
+        "title": {
+            "eng": "Konami's Tennis",
+            "kor": "코나미 테니스"
+        }
+    },
+    "프레이": {
+        "collected": false,
+        "developer": "MicroCabin",
+        "genre": "RPG",
+        "loc_url": "https://nsm53p.tistory.com/758",
+        "localization": "NSM53 PROJECT,Grand",
+        "platform": "MSXTR",
+        "release": "Unknown",
+        "title": {
+            "eng": "Fray",
+            "kor": "프레이"
+        }
+    },
+    "하이드라이드 3": {
+        "developer": "T&E Soft",
+        "genre": "Action RPG",
+        "loc_url": "https://nsm53p.tistory.com/757",
+        "localization": "자일리톨,NSM53 PROJECT",
+        "platform": "MSX1",
+        "release": "1987-01-01",
+        "title": {
+            "eng": "Hydlide 3 - The Space Memories",
+            "kor": "하이드라이드 3"
+        }
+    },
+    "환영도시": {
+        "collected": false,
+        "developer": "MicroCabin",
+        "genre": "RPG",
+        "loc_url": "https://blog.naver.com/kkitty5425/222619726741",
+        "localization": "키티야",
+        "platform": "MSXTR",
+        "release": "1991-00-00",
+        "title": {
+            "eng": "Illusion City",
+            "jpn": "幻影都市",
+            "kor": "환영도시"
+        }
+    }
+}

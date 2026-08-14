@@ -1,0 +1,242 @@
+{
+    "닌자용검전": {
+        "developer": "Tecmo",
+        "genre": "Platform",
+        "loc_url": "https://blog.naver.com/devilucifer/223061524347",
+        "localization": "DQ군,히힛마스터",
+        "platform": "NES",
+        "release": "1988-12-09",
+        "title": {
+            "eng": "Ninja Ryuuken Den",
+            "kor": "닌자용검전"
+        }
+    },
+    "닌자용검전 2 - 암흑의 사신검": {
+        "developer": "Tecmo",
+        "genre": "Beat'em Up",
+        "loc_url": "https://blog.naver.com/devilucifer/223016771942",
+        "localization": "DQ군",
+        "platform": "NES",
+        "release": "1990-04-06",
+        "title": {
+            "eng": "Ninja Ryuuken Den II : Ankoku no Jashin Ken",
+            "kor": "닌자용검전 2 - 암흑의 사신검"
+        }
+    },
+    "닌자용검전 3": {
+        "developer": "Tecmo",
+        "genre": "Platform",
+        "loc_url": "https://blog.naver.com/devilucifer/222883301198",
+        "localization": "DQ군",
+        "platform": "NES",
+        "release": "1991-06-21",
+        "title": {
+            "eng": "Ninja Ryuuken Den III : Yomi no Hakobune",
+            "kor": "닌자용검전 3"
+        }
+    },
+    "돈 도코 돈": {
+        "developer": "Taito",
+        "genre": "Platform",
+        "loc_url": "https://teammp.diskstation.me/154.php",
+        "localization": "팀무풍",
+        "platform": "NES",
+        "release": "1990-03-09",
+        "title": {
+            "eng": "Don Doko Don",
+            "kor": "돈 도코 돈"
+        }
+    },
+    "로보코 워즈": {
+        "developer": "Pixel",
+        "genre": "Platform / Shooter Scrolling",
+        "loc_url": "https://teammp.diskstation.me/012.php",
+        "localization": "히힛마스터",
+        "platform": "NES",
+        "release": "1991-08-02",
+        "title": {
+            "eng": "Robocco Wars",
+            "kor": "로보코 워즈"
+        }
+    },
+    "배트맨": {
+        "developer": "Sunsoft",
+        "genre": "Platform",
+        "loc_url": "https://hanmarus.tistory.com/133",
+        "localization": "한마루",
+        "platform": "NES",
+        "release": "1989-12-22",
+        "title": {
+            "eng": "Batman",
+            "kor": "배트맨"
+        }
+    },
+    "수퍼 마리오 브라더스": {
+        "developer": "Nintendo",
+        "genre": "Platform / Run & Jump",
+        "loc_url": "https://teammp.diskstation.me/067.php",
+        "localization": "히힛마스터",
+        "platform": "NES",
+        "release": "1985-11-17",
+        "title": {
+            "eng": "Super Mario Bros.",
+            "kor": "수퍼 마리오 브라더스"
+        }
+    },
+    "수퍼 콘트라": {
+        "developer": "Konami",
+        "genre": "Shooter / Run and Gun",
+        "loc_url": "https://teammp.diskstation.me/155.php",
+        "localization": "팀무풍",
+        "platform": "NES",
+        "release": "1990-02-02",
+        "title": {
+            "eng": "Super Contra",
+            "kor": "수퍼 콘트라"
+        }
+    },
+    "스노우 브라더스": {
+        "developer": "SOL",
+        "genre": "Platform",
+        "loc_url": "https://teammp.diskstation.me/173.php",
+        "localization": "히힛마스터",
+        "platform": "NES",
+        "release": "1991-12-06",
+        "title": {
+            "eng": "Snow Bros.",
+            "kor": "스노우 브라더스"
+        }
+    },
+    "악마성 스페셜 - 나는 드라큐라군": {
+        "developer": "Konami",
+        "genre": "Adventure",
+        "loc_url": "https://blog.naver.com/devilucifer/222921095430",
+        "localization": "DQ군",
+        "platform": "NES",
+        "release": "1990-10-19",
+        "title": {
+            "eng": "Akumajou Special : Boku Dracula-kun",
+            "kor": "악마성 스페셜 - 나는 드라큐라군"
+        }
+    },
+    "열혈고교 피구부: 축구편": {
+        "developer": "Million",
+        "genre": "Sports / Football (Soccer)",
+        "loc_url": "https://teammp.diskstation.me/078.php",
+        "localization": "히힛마스터",
+        "platform": "NES",
+        "release": "1990-05-18",
+        "title": {
+            "eng": "Nekketsu Koukou Dodgeball-bu : Soccer Hen",
+            "kor": "열혈고교 피구부: 축구편"
+        }
+    },
+    "요시의 쿠키": {
+        "developer": "TOSE",
+        "genre": "Strategy",
+        "loc_url": "https://teammp.diskstation.me/157.php",
+        "localization": "한마루",
+        "platform": "NES",
+        "release": "1992-11-21",
+        "title": {
+            "eng": "Yoshi no Cookie",
+            "kor": "요시의 쿠키"
+        }
+    },
+    "이 얼 쿵푸": {
+        "developer": "Konami",
+        "genre": "Fighting / Versus",
+        "loc_url": "https://teammp.diskstation.me/150.php",
+        "localization": "한마루",
+        "platform": "NES",
+        "release": "1985-04-22",
+        "title": {
+            "eng": "Yie Ar Kung-Fu",
+            "kor": "이 얼 쿵푸"
+        }
+    },
+    "지구용사 선-가드": {
+        "developer": "Tamtex",
+        "genre": "Shoot'em Up",
+        "loc_url": "https://teammp.diskstation.me/014.php",
+        "localization": "히힛마스터",
+        "platform": "NES",
+        "release": "1992-01-11",
+        "title": {
+            "eng": "Taiyou no Yuusha : Fighbird",
+            "kor": "지구용사 선-가드"
+        }
+    },
+    "초시공요새: 마크로스": {
+        "developer": "Namco",
+        "genre": "Shoot'em Up / Horizontal",
+        "loc_url": "https://teammp.diskstation.me/169.php",
+        "localization": "팀무풍",
+        "platform": "NES",
+        "release": "1985-12-10",
+        "title": {
+            "eng": "Choujikuu Yousai : Macross",
+            "kor": "초시공요새: 마크로스"
+        }
+    },
+    "케로 케로 케로피의 대모험 2: 도넛 연못은 대소동!": {
+        "developer": "Shimada Kikaku",
+        "genre": "Platform",
+        "loc_url": "https://teammp.diskstation.me/087.php",
+        "localization": "히힛마스터",
+        "platform": "NES",
+        "release": "1993-02-19",
+        "title": {
+            "eng": "Kero Kero Keroppi no Daibouken 2 : Donuts Ike wa Oosawagi!",
+            "kor": "케로 케로 케로피의 대모험 2: 도넛 연못은 대소동!"
+        }
+    },
+    "콘트라": {
+        "developer": "Konami",
+        "genre": "Shooter / Run and Gun",
+        "loc_url": "https://teammp.diskstation.me/005.php",
+        "localization": "팀무풍",
+        "platform": "NES",
+        "release": "1988-02-09",
+        "title": {
+            "eng": "Contra",
+            "kor": "콘트라"
+        }
+    },
+    "파이널 판타지 1": {
+        "developer": "Squaresoft",
+        "genre": "Role Playing Game / Japanese RPG",
+        "loc_url": "https://www.hangulogame.com/post/patch/fc/445/",
+        "localization": "Project-G",
+        "platform": "NES",
+        "release": "1987-12-18",
+        "title": {
+            "eng": "Final Fantasy",
+            "kor": "파이널 판타지 1"
+        }
+    },
+    "파이널 판타지 2": {
+        "developer": "Square",
+        "genre": "Role Playing Game",
+        "loc_url": "https://blog.naver.com/kkitty5425/221092133637",
+        "localization": "키티야",
+        "platform": "NES",
+        "release": "1988-12-17",
+        "title": {
+            "eng": "Final Fantasy II",
+            "kor": "파이널 판타지 2"
+        }
+    },
+    "파이널 판타지 3": {
+        "developer": "Square",
+        "genre": "Role Playing Game",
+        "loc_url": "https://www.hangulogame.com/post/patch/fc/446/#",
+        "localization": "독서가",
+        "platform": "NES",
+        "release": "1990-04-27",
+        "title": {
+            "eng": "Final Fantasy III",
+            "kor": "파이널 판타지 3"
+        }
+    }
+}

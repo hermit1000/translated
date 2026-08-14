@@ -1,0 +1,338 @@
+{
+    "건스타 히어로즈": {
+        "developer": "Treasure",
+        "genre": "Shooter / Run and Gun",
+        "loc_url": "Unknown",
+        "localization": "열정패이,아루미",
+        "platform": "MEGADRIVE",
+        "release": "1993-09-10",
+        "title": {
+            "eng": "Gunstar Heroes",
+            "kor": "건스타 히어로즈"
+        }
+    },
+    "그레이 랜서": {
+        "developer": "Masaya Games",
+        "genre": "Shoot'em Up / Horizontal",
+        "loc_url": "https://www.hangulogame.com/post/patch/md/204/#",
+        "localization": "싸이제로",
+        "platform": "MEGADRIVE",
+        "release": "1992-07-17",
+        "title": {
+            "eng": "Advanced Busterhawk Gleylancer",
+            "kor": "그레이 랜서"
+        }
+    },
+    "랜드스토커": {
+        "developer": "Climax",
+        "genre": "Role Playing Game",
+        "loc_url": "https://www.hangulogame.com/post/patch/md/205/#",
+        "localization": "싸이제로",
+        "platform": "MEGADRIVE",
+        "release": "1993-10-01",
+        "title": {
+            "eng": "Landstalker : Koutei no Zaihou",
+            "kor": "랜드스토커"
+        }
+    },
+    "매지컬 타루루토군": {
+        "developer": "Game Freak",
+        "genre": "Platform",
+        "loc_url": "http://tarruto.teammp.kro.kr/",
+        "localization": "팀 무풍,v1.0",
+        "platform": "MEGADRIVE",
+        "release": "1992-04-24",
+        "title": {
+            "jpn": "まじかる☆タルるートくん",
+            "kor": "매지컬 타루루토군"
+        }
+    },
+    "무사 알레스터": {
+        "developer": "Compile",
+        "genre": "Shoot'em Up / Vertical",
+        "loc_url": "http://nsm53p.tistory.com/319",
+        "localization": "자일리톨-v1.0",
+        "platform": "MEGADRIVE",
+        "release": "1990-12-21",
+        "title": {
+            "eng": "Full Metal Fighter Ellinor",
+            "kor": "무사 알레스터"
+        }
+    },
+    "바리스 1": {
+        "developer": "Riot",
+        "genre": "Role Playing Game",
+        "loc_url": "http://nsm53p.tistory.com/220",
+        "localization": "자일리톨,v1.0c",
+        "platform": "MEGADRIVE",
+        "release": "1991-12-27",
+        "title": {
+            "eng": "Mugen Senshi Valis",
+            "kor": "바리스 1"
+        }
+    },
+    "바리스 3": {
+        "developer": "Telenet",
+        "genre": "Platform",
+        "loc_url": "http://nsm53p.tistory.com/27",
+        "localization": "자일리톨,v0.92c",
+        "platform": "MEGADRIVE",
+        "release": "1991-03-22",
+        "title": {
+            "eng": "Valis III",
+            "kor": "바리스 3"
+        }
+    },
+    "바리스 SD": {
+        "developer": "Renovation Products",
+        "genre": "Platform",
+        "loc_url": "http://nsm53p.tistory.com/347",
+        "localization": "자일리톨,v1.0",
+        "platform": "MEGADRIVE",
+        "release": "1992-02-14",
+        "title": {
+            "eng": "바리스 SD",
+            "kor": "바리스 SD"
+        }
+    },
+    "뱀파이어 킬러": {
+        "developer": "Konami",
+        "genre": "Platform / Fighter Scrolling",
+        "loc_url": "https://teammp.diskstation.me/018.php",
+        "localization": "팀 무풍,v1.0",
+        "platform": "MEGADRIVE",
+        "release": "1994-03-17",
+        "title": {
+            "eng": "バンパイアキラー",
+            "kor": "뱀파이어 킬러"
+        }
+    },
+    "샤이닝 인 더 다크니스": {
+        "developer": "Climax",
+        "genre": "Role Playing Game / Dungeon Crawler RPG",
+        "loc_url": "https://www.hangulogame.com/post/patch/md/210/#",
+        "localization": "싸이제로",
+        "platform": "MEGADRIVE",
+        "release": "1991-01-01",
+        "title": {
+            "eng": "Shining and the Darkness",
+            "kor": "샤이닝 인 더 다크니스"
+        }
+    },
+    "샤이닝 포스 1": {
+        "developer": "Climax",
+        "genre": "Strategy / Tactical RPG",
+        "loc_url": "https://mega.nz/#!RUkQUYIZ!Z0ROj-t4UEnP-toN8dF2UjnV-moZKGT7aCQ3HwnQuwI",
+        "localization": "싸이제로",
+        "platform": "MEGADRIVE",
+        "release": "1993-01-01",
+        "title": {
+            "eng": "Shining Force",
+            "kor": "샤이닝 포스 1"
+        }
+    },
+    "샤이닝 포스 2": {
+        "developer": "Camelot Software",
+        "genre": "Role Playing Game / Tactical RPG",
+        "loc_url": "https://www.hangulogame.com/post/patch/md/212/#",
+        "localization": "싸이제로",
+        "platform": "MEGADRIVE",
+        "release": "1994-10-02",
+        "title": {
+            "eng": "Shining Force II",
+            "kor": "샤이닝 포스 2"
+        }
+    },
+    "수라의 문": {
+        "developer": "Sims",
+        "genre": "Adventure",
+        "loc_url": "https://teammp.diskstation.me/048.php",
+        "localization": "팀무풍,지원채운아빠",
+        "platform": "MEGADRIVE",
+        "release": "1992-08-07",
+        "title": {
+            "eng": "修羅の門",
+            "kor": "수라의 문"
+        }
+    },
+    "수퍼 시노비 2": {
+        "developer": "Megasoft",
+        "genre": "Platform",
+        "loc_url": "https://www.hangulogame.com/post/patch/md/213/#",
+        "localization": "싸이제로",
+        "platform": "MEGADRIVE",
+        "release": "1993-08-22",
+        "title": {
+            "eng": "The Super Shinobi II",
+            "kor": "수퍼 시노비 2"
+        }
+    },
+    "수퍼 판타지 존": {
+        "developer": "Sunsoft",
+        "genre": "Shoot'em Up / Horizontal",
+        "loc_url": "https://www.hangulogame.com/post/patch/md/214/#",
+        "localization": "싸이제로",
+        "platform": "MEGADRIVE",
+        "release": "1992-01-14",
+        "title": {
+            "eng": "Super Fantasy Zone",
+            "kor": "수퍼 판타지 존"
+        }
+    },
+    "알리시아 드래곤": {
+        "developer": "Game Arts",
+        "genre": "Platform",
+        "loc_url": "https://www.hangulogame.com/post/patch/md/216/#",
+        "localization": "싸이제로",
+        "platform": "MEGADRIVE",
+        "release": "1992-02-01",
+        "title": {
+            "eng": "Alisia Dragoon",
+            "kor": "알리시아 드래곤"
+        }
+    },
+    "엑자일": {
+        "developer": "Riot",
+        "genre": "Role Playing Game",
+        "loc_url": "https://blog.naver.com/kkitty5425/221216185135",
+        "localization": "키티야",
+        "platform": "MEGADRIVE",
+        "release": "1991-12-05",
+        "title": {
+            "jpn": "エグザイル 時の狭間へ",
+            "kor": "엑자일"
+        }
+    },
+    "엘 비엔토": {
+        "developer": "Wolf Team",
+        "genre": "Platform / Run & Jump",
+        "loc_url": "http://nsm53p.tistory.com/366",
+        "localization": "자일리톨,v1.0",
+        "platform": "MEGADRIVE",
+        "release": "1991-09-20",
+        "title": {
+            "eng": "El. Viento",
+            "kor": "엘 비엔토"
+        }
+    },
+    "엘레멘탈 마스터": {
+        "developer": "Technosoft",
+        "genre": "Shoot'em Up / Vertical",
+        "loc_url": "https://www.hangulogame.com/post/patch/md/218/#",
+        "localization": "싸이제로",
+        "platform": "MEGADRIVE",
+        "release": "1993-01-01",
+        "title": {
+            "eng": "Elemental Master",
+            "kor": "엘레멘탈 마스터"
+        }
+    },
+    "용의 아들의 날아라 터보! 대모험": {
+        "developer": "Tokai Engineering",
+        "genre": "Platform",
+        "loc_url": "https://teammp.diskstation.me/017.php",
+        "localization": "팀 무풍,v1.0",
+        "platform": "MEGADRIVE",
+        "release": "1990-12-15",
+        "title": {
+            "eng": "まじかるハットのぶっとびターボ！大冒険",
+            "kor": "용의 아들의 날아라 터보! 대모험"
+        }
+    },
+    "이스 3": {
+        "developer": "Nihon Falcom",
+        "genre": "Role Playing Game / Action RPG",
+        "loc_url": "http://nsm53p.tistory.com/591",
+        "localization": "자일리톨,v1.0",
+        "platform": "MEGADRIVE",
+        "release": "1991-12-01",
+        "title": {
+            "jpn": "イース3:ワンダラーズ フロム イース",
+            "kor": "이스 3"
+        }
+    },
+    "임모탈": {
+        "developer": "Sandcastle",
+        "genre": "Adventure",
+        "loc_url": "http://cafe.naver.com/hansicgu/16876",
+        "localization": "D.S.Ford-v0.96",
+        "platform": "MEGADRIVE",
+        "release": "1993-08-10",
+        "title": {
+            "eng": "Wizard of the Immortal",
+            "kor": "임모탈"
+        }
+    },
+    "제로 윙": {
+        "developer": "Toaplan",
+        "genre": "Shoot'em Up / Horizontal",
+        "loc_url": "https://teammp.diskstation.me/053.php",
+        "localization": "팀 무풍",
+        "platform": "MEGADRIVE",
+        "release": "1992-07-01",
+        "title": {
+            "eng": "Zero Wing",
+            "kor": "제로 윙"
+        }
+    },
+    "트윙클 테일": {
+        "developer": "ZAP",
+        "genre": "Shoot'em Up",
+        "loc_url": "https://www.hangulogame.com/post/patch/md/220/#",
+        "localization": "싸이제로",
+        "platform": "MEGADRIVE",
+        "release": "1992-07-24",
+        "title": {
+            "eng": "Twinkle Tale",
+            "kor": "트윙클 테일"
+        }
+    },
+    "판타지 스타 2": {
+        "developer": "SEGA",
+        "genre": "Role Playing Game",
+        "loc_url": "https://www.hangulogame.com/post/patch/md/221/#",
+        "localization": "싸이제로",
+        "platform": "MEGADRIVE",
+        "release": "1989-01-01",
+        "title": {
+            "eng": "Phantasy Star II",
+            "kor": "판타지 스타 2"
+        }
+    },
+    "판타지 스타 4": {
+        "developer": "SEGA",
+        "genre": "Fighting",
+        "loc_url": "https://mega.nz/#!Ad8FFYzb!Grbcy47Ui6ZLQAmBP2YpT4-Y-uRXkl7Uxf4a3qpettE",
+        "localization": "싸이제로",
+        "platform": "MEGADRIVE",
+        "release": "1994-04-02",
+        "title": {
+            "eng": "Phantasy Star : Sennenki no Owari ni",
+            "kor": "판타지 스타 4"
+        }
+    },
+    "피구왕 통키": {
+        "developer": "SEGA",
+        "genre": "Sports / Dodgeball",
+        "loc_url": "https://teammp.diskstation.me/001.php",
+        "localization": "팀 무풍,v0.9",
+        "platform": "MEGADRIVE",
+        "release": "1992-07-10",
+        "title": {
+            "jpn": "炎の闘球児ドッジ弾平",
+            "kor": "피구왕 통키"
+        }
+    },
+    "혼두라:하드코어": {
+        "developer": "Konami",
+        "genre": "Shooter / Run and Gun",
+        "loc_url": "https://www.hangulogame.com/post/patch/md/223/#",
+        "localization": "싸이제로",
+        "platform": "MEGADRIVE",
+        "release": "1994-09-15",
+        "title": {
+            "eng": "Contra : The Hard Corps",
+            "kor": "혼두라:하드코어"
+        }
+    }
+}
