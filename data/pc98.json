@@ -11,6 +11,19 @@
             "kor": "감금"
         }
     },
+    "그레이스톤 사가 외전 - 동난의 마도": {
+        "developer": "Pegasus Japan",
+        "genre": "RPG",
+        "loc_url": "https://cafe.naver.com/koeimod/836",
+        "localization": "역사학자",
+        "platform": "PC98",
+        "release": "1995-11-03",
+        "title": {
+            "eng": "Graystone Saga - The Dark Storm of MORZA",
+            "jpn": "グレイストンサーガ外伝 ~ 動乱の魔都",
+            "kor": "그레이스톤 사가 외전 - 동난의 마도"
+        }
+    },
     "나아가라! 초현상 연구부!!": {
         "developer": "Nikukyuu",
         "genre": "ADV",
