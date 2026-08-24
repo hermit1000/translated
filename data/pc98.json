@@ -202,6 +202,19 @@
             "kor": "랑페뢰르"
         }
     },
+    "러스티": {
+        "developer": "C-Lab",
+        "genre": "Action",
+        "loc_url": "https://cafe.naver.com/koeimod/843",
+        "localization": "천수도인",
+        "platform": "PC98",
+        "release": "1993-07-16",
+        "title": {
+            "eng": "Rusty",
+            "jpn": "ラスティ",
+            "kor": "러스티"
+        }
+    },
     "레드 아이": {
         "collected": false,
         "developer": "Splush Wave",

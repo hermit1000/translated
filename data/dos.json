@@ -92,6 +92,19 @@
             "kor": "드래곤 나이트 3"
         }
     },
+    "러스티": {
+        "developer": "C-Lab",
+        "genre": "Action",
+        "loc_url": "https://cafe.naver.com/koeimod/843",
+        "localization": "천수도인",
+        "platform": "DOS",
+        "release": "1993-07-16",
+        "title": {
+            "eng": "Rusty",
+            "jpn": "ラスティ",
+            "kor": "러스티"
+        }
+    },
     "레슬엔젤스 3": {
         "developer": "Great",
         "localization": "*Great",
