@@ -98,6 +98,19 @@
             "kor": "대항해시대 1"
         }
     },
+    "데드 오브 더 브레인 1": {
+        "developer": "Fairytale",
+        "genre": "ADV",
+        "loc_url": "https://cafe.naver.com/koeimod/847",
+        "localization": "천수도인",
+        "platform": "PC98",
+        "release": "1992-05-15",
+        "title": {
+            "eng": "(Dead of the Brain",
+            "jpn": "デッド オブ ザ ブレイン ~ 死霊の叫び",
+            "kor": "데드 오브 더 브레인 - 망령의 절규"
+        }
+    },
     "독립전쟁": {
         "developer": "KOEI",
         "genre": "Strategy",
