@@ -108,7 +108,20 @@
         "title": {
             "eng": "(Dead of the Brain",
             "jpn": "デッド オブ ザ ブレイン ~ 死霊の叫び",
-            "kor": "데드 오브 더 브레인 - 망령의 절규"
+            "kor": "데드 오브 더 브레인 - 사령의 비명"
+        }
+    },
+    "데드 오브 더 브레인 2": {
+        "developer": "Fairytale",
+        "genre": "ADV",
+        "loc_url": "https://cafe.naver.com/koeimod/855",
+        "localization": "천수도인",
+        "platform": "PC98",
+        "release": "1993-11-26",
+        "title": {
+            "eng": "(Dead of the Brain 2",
+            "jpn": "デッド オブ ザ ブレイン2",
+            "kor": "데드 오브 더 브레인 2"
         }
     },
     "독립전쟁": {
