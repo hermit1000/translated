@@ -106,7 +106,7 @@
         "platform": "PC98",
         "release": "1992-05-15",
         "title": {
-            "eng": "(Dead of the Brain",
+            "eng": "Dead of the Brain",
             "jpn": "デッド オブ ザ ブレイン ~ 死霊の叫び",
             "kor": "데드 오브 더 브레인 - 사령의 비명"
         }
@@ -119,7 +119,7 @@
         "platform": "PC98",
         "release": "1993-11-26",
         "title": {
-            "eng": "(Dead of the Brain 2",
+            "eng": "Dead of the Brain 2",
             "jpn": "デッド オブ ザ ブレイン2",
             "kor": "데드 오브 더 브레인 2"
         }
@@ -315,6 +315,19 @@
             "eng": "Macross Remember Me",
             "jpn": "超時空要塞マクロス リメンバー･ミー",
             "kor": "초시공요새 마크로스 - 리멤버 미"
+        }
+    },
+    "마린필트": {
+        "developer": "Fairytale",
+        "genre": "ADV",
+        "loc_url": "https://cafe.naver.com/koeimod/874",
+        "localization": "천수도인",
+        "platform": "PC98",
+        "release": "1993-03-12",
+        "title": {
+            "eng": "Marine Philt",
+            "jpn": "マリンフィルト",
+            "kor": "마린필트"
         }
     },
     "마크로스 2 - 스컬리더": {
