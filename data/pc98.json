@@ -36,6 +36,19 @@
             "kor": "나아가라! 초현상 연구부!!"
         }
     },
+    "네크로노미콘": {
+        "developer": "Fairytale",
+        "genre": "ADV",
+        "loc_url": "https://cafe.naver.com/koeimod/891",
+        "localization": "천수도인",
+        "platform": "PC98",
+        "release": "1994-04-13",
+        "title": {
+            "eng": "Necronomicon",
+            "jpn": "ネクロノミコン",
+            "kor": "네크로노미콘"
+        }
+    },
     "노부나가의 야망 2 - 전국판": {
         "developer": "KOEI",
         "genre": "Strategy",
