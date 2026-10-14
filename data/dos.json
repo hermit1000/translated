@@ -35,6 +35,18 @@
             "kor": "노노무라 병원의 사람들"
         }
     },
+    "노부나가의 야망 4 - 무장풍운록": {
+        "developer": "KOEI",
+        "genre": "Strategy",
+        "loc_url": "https://cafe.naver.com/koeimod/803",
+        "localization": "낭만엘리,천수도인",
+        "platform": "DOS",
+        "release": "1991-06-18",
+        "title": {
+            "jpn": "信長の野望 ~ 武将風雲録",
+            "kor": "노부나가의 야망 4 - 무장풍운록"
+        }
+    },
     "다크 세라핌": {
         "developer": "K.S.K",
         "genre": "SRPG",
