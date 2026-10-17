@@ -70,6 +70,19 @@
             "kor": "대항해시대 2"
         }
     },
+    "독립전쟁": {
+        "developer": "KOEI",
+        "genre": "Strategy",
+        "loc_url": "https://cafe.naver.com/koeimod/138",
+        "localization": "낭만엘리,닥터존스,천사,천수도인",
+        "platform": "DOS",
+        "release": "1993-09-27",
+        "title": {
+            "eng": "Liberty of Death",
+            "jpn": "独立戦争 ~ リバティ オア デス",
+            "kor": "독립전쟁 - 자유 또는 죽음"
+        }
+    },
     "동급생 1": {
         "developer": "ELF",
         "genre": "ADV",
