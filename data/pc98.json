@@ -774,6 +774,18 @@
             "kor": "파워 돌 2 대시"
         }
     },
+    "퍼스트 퀸 1": {
+        "developer": "K.S.K",
+        "loc_url": "https://cafe.naver.com/koeimod/928",
+        "localization": "닥터존스,쉔류,천수도인",
+        "platform": "PC98",
+        "release": "1988-12-00",
+        "title": {
+            "eng": "First Queen 1",
+            "jpn": "ファーストクィーン",
+            "kor": "퍼스트 퀸 1"
+        }
+    },
     "퍼스트 퀸 3": {
         "developer": "K.S.K",
         "loc_url": "https://hyunxx.tistory.com/12",
