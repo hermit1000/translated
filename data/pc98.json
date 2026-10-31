@@ -305,6 +305,19 @@
             "kor": "리저널 파워 3 스페셜"
         }
     },
+    "마리아에게 바치는 발라드": {
+        "developer": "Fairytale",
+        "genre": "Advanture",
+        "loc_url": "https://cafe.naver.com/koeimod/944",
+        "localization": "천수도인",
+        "platform": "PC98",
+        "release": "1995-05-26",
+        "title": {
+            "eng": "Ballade for Maria",
+            "jpn": "マリアに捧げるバラード",
+            "kor": "마리아에게 바치는 발라드"
+        }
+    },
     "마블 쿠킹": {
         "developer": "Negative",
         "genre": "Puzzle",
@@ -784,6 +797,18 @@
             "eng": "First Queen 1",
             "jpn": "ファーストクィーン",
             "kor": "퍼스트 퀸 1"
+        }
+    },
+    "퍼스트 퀸 2": {
+        "developer": "K.S.K",
+        "loc_url": "https://cafe.naver.com/koeimod/930",
+        "localization": "닥터존스,쉔류,천수도인",
+        "platform": "PC98",
+        "release": "1990-12-17",
+        "title": {
+            "eng": "First Queen 2",
+            "jpn": "ファーストクィーン2 ~ 砂漠の女王",
+            "kor": "퍼스트 퀸 2 - 사막의 여왕"
         }
     },
     "퍼스트 퀸 3": {
